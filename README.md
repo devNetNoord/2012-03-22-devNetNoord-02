@@ -1,5 +1,5 @@
-# 2012-03-22-devNetNoord-02
-devNetNoord 2
+# devNetNoord 02
+2012-03-22
 
 Sessies:
 - Een SharePoint 2010 praktijkvoorbeeld, Robert Jan van Holland
